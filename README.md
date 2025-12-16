@@ -99,7 +99,8 @@ I am passionate about building **scalable, data-driven, and user-focused solutio
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manishgupta5815&show_icons=true&theme=radical)
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishgupta5815&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
 
 ---
 
