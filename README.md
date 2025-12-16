@@ -37,26 +37,55 @@ I am passionate about building **scalable, data-driven, and user-focused solutio
 
 ## 📌 Featured Projects
 
-### ☀️ Solar Irradiance Forecasting using ANN
-- Built an ANN model using temperature, humidity, and cloud cover data  
-- Achieved **R² = 0.9142**, outperforming linear regression by **15%**  
-- Reduced prediction error by **8%** using Gradient Descent & SGD  
-- Led a **5-member team**, delivering the project ahead of schedule  
+### 🧠 ManahSphere — AI-Powered Mental Wellness Platform
+- Safe digital space for journaling and mood tracking
+- AI-based emotion analysis for self-reflection
+- Focus on privacy, ethics, and emotional well-being
 
-🔗 **Repository:** *(add link)*  
+🔗 https://github.com/Manishgupta5815/ManahSphere
 
 ---
 
 ### 🌿 Tree Species Classification & Web Application
-- Developed a **Flask + Tailwind** based ML web application  
-- Benchmarked **6 CNN models** and selected **EfficientNetV2-B0**  
-- Achieved **96% Top-3 accuracy**  
-- Implemented **invalid/non-tree image rejection system**  
-- Designed responsive UI with real-time predictions  
+- CNN-based image classification using leaf images
+- Benchmarked multiple models (EfficientNet, CNNs)
+- Flask + Tailwind web app with real-time predictions
+- Invalid / non-tree image rejection system
 
-🔗 **Repository:** *(add link)*  
+🔗 https://github.com/Manishgupta5815/Tree-Species-Classification
 
 ---
+
+### ☀️ Solar Irradiance Prediction using ANN
+- ANN-based forecasting using environmental parameters
+- Improved accuracy over linear regression
+- Optimized using Gradient Descent & SGD
+- Team-based ML project with performance evaluation
+
+🔗 https://github.com/Manishgupta5815/solar_irradiance_prediction
+
+---
+
+### 🌐 Personal Portfolio Website
+- Responsive personal portfolio
+- Showcases projects, skills, and experience
+- Built with HTML, CSS, and JavaScript
+- Deployed using GitHub Pages
+
+🔗 https://github.com/Manishgupta5815/my-portfolio
+
+---
+
+### 🏦 ATM Interface (Java)
+- Console-based ATM simulation
+- Implements OOP principles in Java
+- Includes authentication, balance inquiry, and transactions
+
+🔗 https://github.com/Manishgupta5815/ATM-Interface
+
+---
+
+
 
 ## 💼 Experience
 
