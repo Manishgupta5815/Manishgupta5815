@@ -101,6 +101,8 @@ I am passionate about building **scalable, data-driven, and user-focused solutio
 ## 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishgupta5815&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manishgupta5815&theme=react-dark)
+
 
 ---
 
